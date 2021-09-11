@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Chino
-- 👀 I’m interested in Html, CSS, Java, Python, Databases & Other Interesting Languages To Learn
-- 🌱 I’m currently learning Javascript, CSS & HTML ...
-- 💞️ I’m looking to learn with guidance...
-- 📫 How to reach me ...
+I am a passionate, team driven software engineer interested in an organization that has a mission to uplift success. I hope to apply my organizational skills and leadership from my past roles to a software world. I strive for continuous improvement and advanced growth.
 
-<!---
-Chinodev411/Chinodev411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experience in job work force and understanding how technology could help with work related activities.
